@@ -1,0 +1,29 @@
+header {
+  text-align: center;
+  background-color: #22c7fc;
+}
+
+.intro-heading {
+  font-family: "Roboto Condensed", "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 45px;
+  margin-bottom: 50px;
+  color: white;
+  padding-top: 100px;
+}
+
+.icon{
+	height: 30px;
+	margin: 8px;
+}
+.social-icons{
+	display: inline-block;
+}
+.toggle{
+	margin-top: 120px;
+	margin-bottom: 120px;
+}
+.gallery{
+	 background-color: white;
+}
